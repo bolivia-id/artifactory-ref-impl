@@ -516,6 +516,7 @@
     }
   },
   "timeSelection": {
+    "action_add":"Add",
     "title_book": "Book Appointment",
     "text_prev": "Previous",
     "text_next": "Next",
