@@ -386,6 +386,7 @@
   },
   "preview": {
     "title_preview": "Preview",
+    "label_pre_id":"Registration Number",
     "language": "English",
     "subheading_information": "Personal Information",
     "label_name": "Full Name",
