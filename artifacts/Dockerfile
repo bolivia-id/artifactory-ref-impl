@@ -72,6 +72,9 @@ ENV jpeg_sdk_path=${base_path}/libs-release-local/jpeg-mock-sdk/1.1.5/
 # environment valiable for image-compressor jar
 ENV image_compressor_path=${base_path}/libs-release-local/compressor/
 
+# environment variable for custom-impl jar path
+ENV custom_zip_path=${base_path}/libs-release-local/impl
+
 # environment variable for Kernel Jars
 ENV kernel_jar_path=${base_path}/libs-release-local/io/mosip/kernel
 
@@ -160,6 +163,8 @@ COPY /src/i18n/mock-relying-party-i18n-bundle/*  ${work_dir}/mock-relying-party-
 COPY /src/i18n/esignet-i18n-bundle/*  ${work_dir}/esignet-i18n-bundle/
 
 COPY /src/theme/esignet-theme/* ${work_dir}/esignet-theme/
+
+COPY /src/impl/* ${custom_zip_path}/
 
 COPY /src/jre/zulu11.41.23-ca-fx-jre11.0.8-win_x64.zip ${regclient_jar_path}/zulu11.41.23-ca-fx-jre11.0.8-win_x64.zip
 
