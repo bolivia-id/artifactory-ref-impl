@@ -45,17 +45,6 @@
       "linkType": "",
       "LinkURL": "",
       "noSort": "true"
-    },
-    {
-      "name": "lastName",
-      "showInListView": "true",
-      "showInSingleView": "true",
-      "label": {"eng": "Last Name", "ara": "الكنية", "fra": "Nom de famille", "tam": "கடைசி பெயர்", "hin": "अंतिम नाम", "kan": "ಕೊನೆಯ ಹೆಸರು", "es":"Apellido"},
-      "sortOrder": "3",
-      "showAsLink": "",
-      "linkType": "",
-      "LinkURL": "",
-      "noSort": "true"
     }
 
   ],
@@ -106,35 +95,35 @@
       "ismandatory": "true"
     },
     {
-      "filtername": "middleName",
+      "filtername": "firstLastName",
         "filterlabel": {
-        "eng": "Middle Name",
-        "ara": "الاسم الأوسط",
-        "fra": "Deuxième prénom",
-        "hin": "मध्य नाम",
-        "kan": "ಮಧ್ಯ ಹೆಸರು",
-        "tam": "நடுத்தர பெயர்",
-        "es":"Segundo nombre"
+        "eng": "First Last Name",
+        "ara": "االاسم الأخير",
+        "fra": "Prénom Nom",
+        "hin": "प्रथम अंतिम नाम",
+        "kan": "სახელი გვარი",
+        "tam": "முதல் கடைசி பெயர்",
+        "spa":"Primer Apellido"
       },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
       "datePicker": "false",
       "apiName": "lostRid",
-      "fieldName": "middleName",
+      "fieldName": "firstLastName",
       "methodCallName": "",
       "ismandatory": "false"
     },
-    {
-      "filtername": "lastName",
+     {
+      "filtername": "secondLastName",
         "filterlabel": {
-        "eng": "Last Name",
-        "ara": "الكنية",
-        "fra": "Nom de famille",
-        "tam": "கடைசி பெயர்",
-        "hin": "अंतिम नाम",
-        "kan": "ಕೊನೆಯ ಹೆಸರು",
-        "es":"Apellido"
+        "eng": "Second Last Name",
+        "ara": "الاسم الأخير الثاني",
+        "fra": "Deuxième nom de famille",
+        "tam": "இரண்டாவது கடைசி பெயர்",
+        "hin": "दूसरा अंतिम नाम",
+        "kan": "მეორე გვარი",
+        "spa":"Segundo apellido"
         
       },
       "filterType": "equals",
@@ -142,9 +131,9 @@
       "dropdown": "false",
       "datePicker": "false",
       "apiName": "lostRid",
-      "fieldName": "lastName",
+      "fieldName": "secondLastName",
       "methodCallName": "",
-      "ismandatory": "true"
+      "ismandatory": "false"
     },
     {
       "filtername": "email",
