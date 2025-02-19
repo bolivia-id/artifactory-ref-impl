@@ -3,12 +3,6 @@
   "actionButtons": [
     {
       "buttonName": {
-        "eng": "Resume Processing",
-        "ara": "ااستئناف المعالجة",
-        "fra": "Reprendre le traitement",
-        "hin": "प्रसंस्करण फिर से शुरू करें",
-        "kan": "ಪುನರಾರಂಭ ಪ್ರಕ್ರಿಯೆ",
-        "tam": "மீண்டும் செயலாக்கம்",
         "es": "Reanudar procesamiento"
       },
       "actionURL": "",
@@ -19,12 +13,6 @@
     },
     {
       "buttonName": {
-        "eng": "Resume from the beginning",
-        "ara": "استئناف من البداية",
-        "fra": "Reprendre depuis le début",
-        "hin": "शुरुआत से फिर से शुरू",
-        "kan": "ಮೊದಲಿನಿಂದಲೂ ಪುನರಾರಂಭಿಸಿ",
-        "tam": "ஆரம்பத்திலிருந்து மீண்டும் தொடரவும்",
         "es": "Reanudar desde el principio"
       },
       "actionURL": "",
@@ -35,12 +23,6 @@
     },
     {
       "buttonName": {
-        "eng": "Reject",
-        "ara": "يرفض",
-        "fra": "Rejeter",
-        "hin": "अस्वीकार",
-        "kan": "ತಿರಸ್ಕರಿಸಿ",
-        "tam": "நிராகரிக்கவும்",
         "es": "Rechazar"
       },
       "actionURL": "",
@@ -50,7 +32,7 @@
       "callBackFunction": "stopprocessing"
     },
     {
-      "buttonName": { "eng": "Filter", "ara": "تصفيه", "fra": "filtre" , "hin": "पफ़िल्टर", "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ", "tam": "வடிகட்டி", "es": "Filtro"},
+      "buttonName": { "es": "Filtro"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -63,7 +45,7 @@
     {
       "name": "workflowId",
       "showInListView": "True",
-      "label": { "eng": "RID", "ara": "ايتخلص", "fra": "DÉBARRASSER" ,"hin": "पंजीयन पहचान  ","kan": "ಆರ್ಐಡಿ","tam": "தவிர்ந்திடு", "es": "RID"},
+      "label": {"es": "RID"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -72,7 +54,7 @@
     {
       "name": "workflowType",
       "showInListView": "True",
-      "label": { "eng": "Type of packet", "ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை", "es": "Tipo de paquete"},
+      "label": { "es": "Tipo de paquete"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -81,7 +63,7 @@
     {
       "name": "statusComment",
       "showInListView": "True",
-      "label": { "eng": "Rule Description", "ara": "وصف القاعدة", "fra": "Description de la règle" , "hin": "नियम विवरण", "kan": "ನಿಯಮದ ವಿವರಣೆ", "tam": "விதி விளக்கம்", "es": "Descripción de la regla"},
+      "label": { "es": "Descripción de la regla"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -90,7 +72,7 @@
     {
       "name": "currentStageName",
       "showInListView": "True",
-      "label": { "eng": "Current Stage", "ara": "المرحلة الحالية", "fra": "Étape actuelle","hin": "वर्तमान स्थिति ","kan": "ಪ್ರಸ್ತುತ ಹಂತ     ","tam": "தற்போதைய நிலை ", "es": "Etapa actual"},
+      "label": { "es": "Etapa actual"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -105,10 +87,7 @@
   "filterColumns": [
     {
       "filtername": "workflowId",
-      "filterlabel": { "eng": "RID", "ara": "يتخلص,","fra": "DÉBARRASSER",
-      "hin": "पंजीयन पहचान  ",
-      "kan": "ಆರ್ಐಡಿ     ",
-        "tam": "தவிர்ந்திடு  ",
+      "filterlabel": {
         "es": "RID"},
       "filterType": "contains",
       "fieldType": "input",
@@ -121,7 +100,7 @@
     },
     {
       "filtername": "workflowType",
-      "filterlabel": { "eng": "Type of packet", "ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை", "es": "Tipo de paquete"},
+      "filterlabel": {"es": "Tipo de paquete"},
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "false",

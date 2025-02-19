@@ -2,10 +2,7 @@
   "auditEventIds": ["ADM-030", "ADM-052"],
   "actionButtons": [
     {
-      "buttonName": { "eng": "Filter", "ara": "تصفيه", "fra": "filtre" ,
-        "hin": "पफ़िल्टर ",
-        "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ     ",
-        "tam": "வடிகட்டி  ", "es":"Filtrar"},
+      "buttonName": { "es":"Filtrar"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -18,7 +15,7 @@
     {
       "name": "registrationId",
       "showInListView": "True",
-      "label": { "eng": "Registration Id", "ara": "معرف تسجيل", "fra": "ID d'enregistrement" , "hin": "पंजीयन पहचान", "kan": "ನೋಂದಣಿ ಐಡಿ", "tam": "பதிவு ஐடி","es":"Identificación de registro"},
+      "label": { "es":"Identificación de registro"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -28,7 +25,7 @@
     {
       "name": "registartionDate",
       "showInListView": "True",
-      "label": { "eng": "Registartion Date", "ara": "تاريخ التسجيل", "fra": "Date d'enregistrement" , "hin": "पंजीकरण तिथि", "kan": "ನೋಂದಣಿ ದಿನಾಂಕ", "tam": "பதிவு தேதி","es":"Fecha de registro"},
+      "label": { "es":"Fecha de registro"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -39,7 +36,7 @@
       "name": "firstName",
       "showInListView": "true",
       "showInSingleView": "true",
-     "label": {"eng": "First Name","ara": "الاسم الأول","fra": "Prénom","tam": "முதல் பெயர்","hin": "प्रथम नाम", "kan": "ಮೊದಲ ಹೆಸರು","es":"Nombre de pila"},
+     "label": {"es":"Nombre de pila"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -52,7 +49,7 @@
   "filterColumns": [
     {
       "filtername": "registrationDateFrom",
-      "filterlabel": { "eng": "Registration From Date", "ara": "تاريخ التسجيل من", "fra": "Date d'inscription Du","hin": "पंजीकरण की तारीख", "kan": "ನೋಂದಣಿ ದಿನಾಂಕದಿಂದ", "tam": "பதிவு தேதி முதல்","es": "Fecha de Registro Desde" },
+      "filterlabel": {"es": "Fecha de Registro Desde" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -64,7 +61,7 @@
     },
     {
       "filtername": "registrationDateTo",
-      "filterlabel": { "eng": "Registration To Date", "ara": "التسجيل حتى تاريخه", "fra": "Inscription à ce jour","hin": "आज तक पंजीकरण", "kan": "ಇಲ್ಲಿಯವರೆಗೆ ನೋಂದಣಿ", "tam": "இன்றுவரை பதிவு", "es": "Fecha de Registro Hasta" },
+      "filterlabel": {"es": "Fecha de Registro Hasta" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -77,12 +74,6 @@
     {
       "filtername": "firstName",
     "filterlabel": {
-    "eng": "First Name",
-    "ara": "الاسم الأول",
-    "fra": "Prénom",
-    "tam": "முதல் பெயர்",
-    "hin": "प्रथम नाम",
-    "kan": "ಮೊದಲ ಹೆಸರು",
     "es":"Nombre de pila"
    },
       "filterType": "equals",
@@ -97,13 +88,7 @@
     {
       "filtername": "firstLastName",
         "filterlabel": {
-        "eng": "First Last Name",
-        "ara": "االاسم الأخير",
-        "fra": "Prénom Nom",
-        "hin": "प्रथम अंतिम नाम",
-        "kan": "სახელი გვარი",
-        "tam": "முதல் கடைசி பெயர்",
-        "spa":"Primer Apellido"
+        "es":"Primer Apellido"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -117,13 +102,7 @@
      {
       "filtername": "secondLastName",
         "filterlabel": {
-        "eng": "Second Last Name",
-        "ara": "الاسم الأخير الثاني",
-        "fra": "Deuxième nom de famille",
-        "tam": "இரண்டாவது கடைசி பெயர்",
-        "hin": "दूसरा अंतिम नाम",
-        "kan": "მეორე გვარი",
-        "spa":"Segundo apellido"
+        "es":"Segundo apellido"
         
       },
       "filterType": "equals",
@@ -138,12 +117,6 @@
     {
       "filtername": "email",
       "filterlabel": {
-        "eng": "Email",
-        "ara": "بريد الالكتروني",
-        "fra": "E-mail",
-        "hin": "ईमेल",
-        "kan": "ಇಮೇಲ್",
-        "tam": "மின்னஞ்சல்",
         "es": "Correo Electrónico"
       },
       "filterType": "equals",
@@ -158,12 +131,6 @@
     {
       "filtername": "phone",
       "filterlabel": {
-        "eng": "Phone",
-        "ara": "هاتف",
-        "fra": "Téléphoner",
-        "hin": "फ़ोन",
-        "kan": "ದೂರವಾಣಿ",
-        "tam": "தொலைபேசி",
         "es": "Teléfono"
       },
       "filterType": "equals",
@@ -178,12 +145,6 @@
     {
       "filtername": "locationCode",
       "filterlabel": {
-        "eng": "Location Code",
-        "ara": "نوع المركز",
-        "fra": "Type de centre",
-        "tam": "மைய வகை",
-        "hin": "केंद्र प्रकार",
-        "kan": "ಕೇಂದ್ರ ಪ್ರಕಾರ",
         "es": "Código de Localización"      
             },
       "filterType": "contains",
@@ -199,12 +160,6 @@
     {
       "filtername": "centerId",
       "filterlabel": {
-        "eng": "Center",
-        "ara": "معرف المركز",
-        "fra": "Identifiant du centre",
-        "hin": "केंद्र आईडी",
-        "kan": "ಕೇಂದ್ರ ಐಡಿ",
-        "tam": "மைய ஐடி",
         "es": "Centro"
       },
       "filterType": "equals",

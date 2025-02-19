@@ -2,13 +2,7 @@
   "auditEventIds": ["ADM-032", "ADM-054"],
   "actionButtons": [{
     "buttonName": {
-      "eng": "Activate",
-        "es": "Activar",
-      "ara": "تنشيط",
-      "fra": "déclencher",
-      "tam": "செயல்படுத்த",
-      "hin": "सक्रिय",
-      "kan": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+        "es": "Activar"
     },
     "actionURL": "",
     "redirectURL": "",
@@ -18,13 +12,7 @@
   },
     {
       "buttonName": {
-        "eng": "Deactivate",
-        "es": "Desactivar",
-        "ara": "الغاء تنشيط",
-        "fra": "désactiver",
-        "tam": "செயலிழக்க",
-        "hin": "निष्क्रिय करें",
-        "kan": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+        "es": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -34,13 +22,7 @@
     },
     {
       "buttonName": {
-        "eng": "Edit",
-        "es": "Editar",
-        "ara": "تصحيح",
-        "fra": "modifier",
-        "tam": "தொகு",
-        "hin": "संपादित करें",
-        "kan": "ತಿದ್ದು"
+        "es": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/document-type/single-view/$id",
@@ -50,13 +32,7 @@
     },
     {
       "buttonName": {
-        "eng": "Create",
-        "es": "Crear",
-        "ara": "إضافة مركز",
-        "fra": "Ajouter le centre",
-        "tam": "உருவாக்கு",
-        "hin": "बनाएं",
-        "kan": "ರಚಿಸಿ"
+        "es": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -67,13 +43,7 @@
     },
     {
       "buttonName": {
-        "eng": "Filter",
-        "es": "Filtrar",
-        "fra": "filtre",
-        "ara": "تصفيه",
-        "tam": "வடிகட்டி",
-        "hin": "फ़िल्टर",
-        "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ"
+        "es": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -86,43 +56,20 @@
     },
     {
       "buttonName": {
-        "eng": "Document Type not available in English",
-        "es": "Tipo de documento no disponible en inglés",
-        "ara": "نوع الوثيقة غير متوفر باللغة العربية",
-        "fra": "Type de document non disponible en français",
-        "tam": "ஆவண வகை தமிழில் இல்லை",
-        "hin": "दस्तावेज़ प्रकार हिंदी में उपलब्ध नहीं है",
-        "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ಪ್ರಕಾರವು ಕನ್ನಡದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ"
+        "es": "Tipo de documento no disponible en inglés"
       },
       "imagePath": "",
       "actionListType": "action",
       "actionURL": {
         "case": "missingData",
         "title": {
-          "eng": "Document Type not available in English",
-          "es": "Tipo de documento no disponible en inglés",
-          "ara": "نوع الوثيقة غير متوفر باللغة العربية",
-          "fra": "Type de centre non disponible en français",
-          "tam": "ஆவண வகை தமிழில் இல்லை",
-          "hin": "दस्तावेज़ प्रकार हिंदी में उपलब्ध नहीं है",
-          "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ಪ್ರಕಾರವು ಕನ್ನಡದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ"
+          "es": "Tipo de documento no disponible en inglés"
         },
         "columnNames": [{
-          "eng": "Code",
-            "es": "Código",
-          "ara": "الشفرة",
-          "fra": "Code",
-          "tam": "குறியீடு",
-          "hin": "कोड",
-          "kan": "ಕೋಡ್"
+            "es": "Código"
         }, {
-          "eng": "Name",
-            "es": "Nombre",
-          "ara": "اسم",
-          "fra": "prénom",
-          "tam": "பெயர்",
-          "hin": "नाम",
-          "kan": "ಹೆಸರು"
+        
+            "es": "Nombre"
         }],
         "fieldName": "name"
       },
@@ -136,13 +83,7 @@
     "showInListView": "true",
     "showInSingleView": "true",
     "label": {
-      "eng": "Code",
-        "es": "Código",
-      "ara": "الشفرة",
-      "fra": "Code",
-      "tam": "குறியீடு",
-      "hin": "कोड",
-      "kan": "ಕೋಡ್"
+        "es": "Código"
     },
     "sortOrder": "3",
     "showAsLink": "",
@@ -156,13 +97,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "eng": "Name",
-        "es": "Nombre",
-        "ara": "اسم",
-        "fra": "prénom",
-        "tam": "பெயர்",
-        "hin": "नाम",
-        "kan": "ಹೆಸರು"
+        "es": "Nombre"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -176,13 +111,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "eng": "Description",
-        "es": "Descripción",
-        "ara": "وصف",
-        "fra": "description",
-        "tam": "விளக்கம்",
-        "hin": "विवरण",
-        "kan": "ವಿವರಣೆ"
+        "es": "Descripción"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -196,13 +125,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "eng": "Created By",
-        "es": "Creado Por",
-        "ara": "تم إنشاؤه من قبل",
-        "fra": "Créé par",
-        "tam": "உருவாக்கப்பட்டது",
-        "hin": "के द्वारा बनाई गई",
-        "kan": "ರಚಿಸಿದವರು"
+        "es": "Creado Por"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -214,13 +137,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "eng": "Updated By",
-        "es": "Actualizado Por",
-        "ara": "تم التحديث بواسطة",
-        "fra": "Mise à jour par",
-        "tam": "புதுப்பிக்கப்பட்டது",
-        "hin": "द्वारा अपडेट",
-        "kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ"
+        "es": "Actualizado Por"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -232,13 +149,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "eng": "Updated Time",
-        "es": "Tiempo Actualizado",
-        "ara": "وقت التحديث",
-        "fra": "Temps mis à jour",
-        "tam": "புதுப்பிக்கப்பட்ட நேரம்",
-        "hin": "अद्यतन समय",
-        "kan": "ನವೀಕರಿಸಿದ ಸಮಯ"
+        "es": "Tiempo Actualizado"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -249,13 +160,7 @@
       "name": "createdDateTime",
       "showInListView": "true",
       "label": {
-        "eng": "Created Time",
-        "es": "Tiempo Creado",
-        "ara": "الوقت الذي تم إنشاؤه",
-        "fra": "Temps créé",
-        "tam": "Created Time",
-        "hin": "बनाया गया समय",
-        "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ"
+        "es": "Tiempo Creado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -269,13 +174,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "eng": "Status",
-        "es": "Estado",
-        "ara": "نشط",
-        "fra": "c'est actif",
-        "tam": "நிலை",
-        "hin": "स्थिति",
-        "kan": "ಸ್ಥಿತಿ"
+        "es": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -292,13 +191,7 @@
     {
     "filtername": "code",
     "filterlabel": {
-      "eng": "Code",
-        "es": "Código",
-      "ara": "الشفرة",
-      "fra": "Code",
-      "tam": "குறியீடு",
-      "hin": "कोड",
-      "kan": "ಕೋಡ್"
+        "es": "Código"
     },
     "filterType": "equals",
     "autocomplete": "false",
@@ -311,13 +204,7 @@
     {
     "filtername": "name",
     "filterlabel": {
-      "eng": "Name",
-        "es": "Nombre",
-      "ara": "اسم",
-      "fra": "prénom",
-      "tam": "பெயர்",
-      "hin": "नाम",
-      "kan": "ಹೆಸರು"
+      "es": "Nombre"
     },
     "filterType": "equals",
     "autocomplete": "false",
@@ -330,13 +217,7 @@
     {
       "filtername": "isActive",
       "filterlabel": {
-        "eng": "Status",
-        "es": "Estado",
-        "ara": "نشط",
-        "fra": "Statut",
-        "tam": "நிலை",
-        "hin": "स्थिति",
-        "kan": "ಸ್ಥಿತಿ"
+        "es": "Estado"
       },
       "filterType": "equals",
       "autocomplete": "false",

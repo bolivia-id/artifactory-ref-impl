@@ -3,12 +3,6 @@
     "common": [
       {
         "label": {
-          "eng": "Center Types",
-          "ara": "نوع المركز",
-          "fra": "Type de centre",
-          "hin": "केंद्र प्रकार   ",
-          "kan": "ಕೇಂದ್ರ ಪ್ರಕಾರಗಳು    ",
-          "tam": "மைய வகைகள்",
           "es": "Tipos de centros"
         },
         "actionURL": "admin/masterdata/center-type/view",
@@ -16,12 +10,6 @@
       },
       {
         "label": {
-          "eng": "Blocklisted Words",
-          "ara": "الكلمات المحظورة",
-          "fra": "Mots bloqués",
-          "tam": "தடுப்புப்பட்டியலில் உள்ள வார்த்தைகள்",
-          "kan": "ನಿರ್ಬಂಧಿತ ಪದಗಳು",
-          "hin": "ब्लॉक लिस्टेड शब्द",
           "es": "Palabras en la lista negra"
         },
         "actionURL": "admin/masterdata/blocklisted-words/view",
@@ -29,12 +17,6 @@
       },
       {
         "label": {
-          "eng": "List Of Holidays",
-          "ara": "قائمة عطلة",
-          "fra": "Liste de vacances",
-          "hin": "छुट्टियों की सूची    ",
-          "kan": "ರಜಾದಿನಗಳ ಪಟ್ಟಿ   ",
-          "tam": "விடுமுறை பட்டியல்",
           "es": "Lista de días festivos"
         },
         "actionURL": "admin/masterdata/holiday/view",
@@ -42,12 +24,6 @@
       },
       {
         "label": {
-          "eng": "Templates",
-          "ara": "قوالب",
-          "fra": "Modèles",
-          "hin": "टेम्पलेट्स     ",
-          "kan": "ಟೆಂಪ್ಲೇಟ್‌ಗಳು  ",
-          "tam": "வார்ப்புருக்கள்",
           "es": "Plantillas"
         },
         "actionURL": "admin/masterdata/templates/view",
@@ -57,12 +33,6 @@
     "deviceDefinition": [
       {
         "label": {
-          "eng": "Device Specs",
-          "ara": "مواصفات الجهاز",
-          "fra": "Spécifications de l'appareil",
-          "hin": "डिवाइस चश्मा      ",
-          "kan": "ಸಾಧನ ವಿವರಣೆಗಳು ",
-          "tam": "சாதன விவரக்குறிப்புகள்",
           "es": "Especificaciones del dispositivo"
         },
         "actionURL": "admin/masterdata/device-specs/view",
@@ -70,12 +40,6 @@
       },
       {
         "label": {
-          "eng": "Device Types",
-          "ara": "أنواع الأجهزة",
-          "fra": "Types de périphériques",
-          "hin": "डिवाइस के प्रकार  ",
-          "kan": "ಸಾಧನ ಪ್ರಕಾರಗಳು ",
-          "tam": "சாதன வகைகள்",
           "es": "Tipos de dispositivos"
         },
         "actionURL": "admin/masterdata/device-types/view",
@@ -85,12 +49,6 @@
     "machineDefinition": [
       {
         "label": {
-          "eng": "Machine Specs",
-          "ara": "المواصفات الجهاز",
-          "fra": "Spécifications de la machine",
-          "hin": "मशीन चश्मा  ",
-          "kan": "ಯಂತ್ರ ವಿವರಣೆಗಳು  ",
-          "tam": "இயந்திர விவரக்குறிப்புகள்",
           "es": "Especificaciones de la máquina"
         },
         "actionURL": "admin/masterdata/machine-specs/view",
@@ -98,12 +56,6 @@
       },
       {
         "label": {
-          "eng": "Machine Types",
-          "ara": "أنواع الآلات",
-          "fra": "Types de machines",
-          "hin": "मशीन के प्रकार   ",
-          "kan": "ಯಂತ್ರ ಪ್ರಕಾರಗಳು",
-          "tam": "இயந்திர வகைகள்",
           "es": "Tipos de máquinas"
         },
         "actionURL": "admin/masterdata/machine-type/view",
@@ -113,12 +65,6 @@
     "documentDefinition": [
       {
         "label": {
-          "eng": "Document Types",
-          "ara": "أنواع المستندات",
-          "fra": "Types de documents",
-          "hin": "दस्तावेज़ प्रकार  ",
-          "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ಪ್ರಕಾರಗಳು  ",
-          "tam": "ஆவண வகைகள்",
           "es": "Tipos de documentos"
         },
         "actionURL": "admin/masterdata/document-type/view",
@@ -126,12 +72,6 @@
       },
       {
         "label": {
-          "eng": "Document Categories",
-          "ara": "فئات المستندات",
-          "fra": "Catégories de document",
-          "hin": "दस्तावेज़ श्रेणियाँ   ",
-          "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗಗಳು  ",
-          "tam": "ஆவண வகைகள்",
           "es": "Categorías de documentos"
         },
         "actionURL": "admin/masterdata/document-categories/view",
@@ -139,12 +79,6 @@
       },
       {
         "label": {
-          "eng": "Document Category - Type Mapping",
-          "ara": "فئة الوثيقة - نوع التعيين",
-          "fra": "Catégorie de document - Mappage de types",
-          "hin": "दस्तावेज़ श्रेणी - प्रकार मानचित्रण ",
-          "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗ - ಟೈಪ್ ಮ್ಯಾಪಿಂಗ್  ",
-          "tam": "ஆவண வகை - வகை மேப்பிங்",
           "es": "Mapeo de Categoría de Documento - Tipo"
         },
         "actionURL": "admin/masterdata/documentCategoryMapping",

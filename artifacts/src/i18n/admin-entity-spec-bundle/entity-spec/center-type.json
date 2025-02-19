@@ -6,12 +6,6 @@
 	"actionButtons": [
 		{
 			"buttonName": {
-				"eng": "Activate",
-				"ara": "تنشيط",
-				"fra": "déclencher",
-				"tam": "செயல்படுத்த",
-				"hin": "सक्रिय",
-				"kan": "ಸಕ್ರಿಯಗೊಳಿಸಿ",
 				"es": "Activar"
 			},
 			"actionURL": "",
@@ -22,12 +16,6 @@
 		},
 		{
 			"buttonName": {
-				"eng": "Deactivate",
-				"ara": "الغاء تنشيط",
-				"fra": "désactiver",
-				"tam": "செயலிழக்க",
-				"hin": "निष्क्रिय करें",
-				"kan": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ",
 				"es": "Desactivar"
 			},
 			"actionURL": "",
@@ -38,12 +26,6 @@
 		},
 		{
 			"buttonName": {
-				"eng": "Edit",
-				"ara": "تصحيح",
-				"fra": "modifier",
-				"tam": "தொகு",
-				"hin": "संपादित करें",
-				"kan": "ತಿದ್ದು",
 				"es": "Editar"
 			},
 			"actionURL": "",
@@ -54,12 +36,6 @@
 		},
 		{
 			"buttonName": {
-				"eng": "Create",
-				"ara": "إضافة مركز",
-				"fra": "Ajouter le centre",
-				"tam": "உருவாக்கு",
-				"hin": "बनाएं",
-				"kan": "ರಚಿಸಿ",
 				"es": "Crear"
 			},
 			"imagePath": "assets/images/add-icon.png",
@@ -71,12 +47,6 @@
 		},
 		{
 			"buttonName": {
-				"eng": "Filter",
-				"fra": "filtre",
-				"ara": "تصفيه",
-				"tam": "வடிகட்டி",
-				"hin": "फ़िल्टर",
-				"kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ",
 				"es": "Filtrar"
 			},
 			"imagePath": "assets/images/filter.png",
@@ -90,12 +60,6 @@
 		},
 		{
 			"buttonName": {
-				"eng": "Center Type not available in English",
-				"ara": "نوع المركز غير متوفر باللغة العربية",
-				"fra": "Type de centre non disponible en français",
-				"tam": "மைய வகை ஆங்கிலத்தில் கிடைக்கவில்லை",
-				"hin": "केंद्र प्रकार अंग्रेजी में उपलब्ध नहीं है",
-				"kan": "ಕೇಂದ್ರ ಪ್ರಕಾರ ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
 				"es": "Tipo de centro no disponible en inglés"
 			},
 			"imagePath": "",
@@ -103,31 +67,13 @@
 			"actionURL": {
 				"case": "missingData",
 				"title": {
-					"eng": "Center Type not available in English",
-					"ara": "نوع المركز غير متوفر باللغة العربية",
-					"fra": "Type de centre non disponible en français",
-					"tam": "மைய வகை ஆங்கிலத்தில் கிடைக்கவில்லை",
-					"hin": "केंद्र प्रकार अंग्रेजी में उपलब्ध नहीं है",
-					"kan": "ಕೇಂದ್ರ ಪ್ರಕಾರ ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
 					"es": "Tipo de centro no disponible en inglés"
 				},
 				"columnNames": [
 					{
-						"eng": "Code",
-						"ara": "الشفرة",
-						"fra": "Code",
-						"tam": "குறியீடு",
-						"hin": "कोड",
-						"kan": "ಕೋಡ್",
 						"es": "Código"
 					},
 					{
-						"eng": "Name",
-						"ara": "اسم",
-						"fra": "prénom",
-						"tam": "பெயர்",
-						"hin": "नाम",
-						"kan": "ಹೆಸರು",
 						"es": "Nombre"
 					}
 				],
@@ -144,12 +90,6 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"eng": "Code",
-				"ara": "الشفرة",
-				"fra": "Code",
-				"tam": "குறியீடு",
-				"hin": "कोड",
-				"kan": "ಕೋಡ್",
 				"es": "Código"
 			},
 			"sortOrder": "",
@@ -164,12 +104,6 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"eng": "Name",
-				"ara": "اسم",
-				"fra": "prénom",
-				"tam": "பெயர்",
-				"hin": "नाम",
-				"kan": "ಹೆಸರು",
 				"es": "Nombre"
 			},
 			"sortOrder": "3",
@@ -184,12 +118,6 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"eng": "Description",
-				"ara": "وصف",
-				"fra": "La description",
-				"tam": "விளக்கம்",
-				"hin": "विवरण",
-				"kan": "ವಿವರಣೆ",
 				"es": "Descripción"
 			},
 			"sortOrder": "",
@@ -203,12 +131,6 @@
 			"name": "updatedBy",
 			"showInListView": "false",
 			"label": {
-				"eng": "Updated By",
-				"ara": "تم التحديث بواسطة",
-				"fra": "Mise à jour par",
-				"tam": "புதுப்பிக்கப்பட்டது",
-				"hin": "द्वारा अपडेट",
-				"kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ",
 				"es": "Actualizado por"
 			},
 			"sortOrder": "",
@@ -222,12 +144,6 @@
 			"name": "updatedDateTime",
 			"showInListView": "false",
 			"label": {
-				"eng": "Updated Time",
-				"ara": "وقت التحديث",
-				"fra": "Temps mis à jour",
-				"tam": "புதுப்பிக்கப்பட்ட நேரம்",
-				"hin": "अद्यतन समय",
-				"kan": "ನವೀಕರಿಸಿದ ಸಮಯ",
 				"es": "Tiempo de actualización"
 			},
 			"sortOrder": "",
@@ -239,12 +155,6 @@
 			"name": "createdBy",
 			"showInListView": "false",
 			"label": {
-				"eng": "Created By",
-				"ara": "تم إنشاؤه من قبل",
-				"fra": "Créé par",
-				"tam": "உருவாக்கப்பட்டது",
-				"hin": "के द्वारा बनाई गई",
-				"kan": "ರಚಿಸಿದವರು",
 				"es": "Creado por"
 			},
 			"sortOrder": "3",
@@ -257,12 +167,6 @@
 			"showInListView": "true",
 			"showInSingleView": "false",
 			"label": {
-				"eng": "Status",
-				"ara": "الحالة",
-				"fra": "Statut",
-				"tam": "நிலை",
-				"hin": "स्थिति",
-				"kan": "ಸ್ಥಿತಿ",
 				"es": "Estado"
 			},
 			"sortOrder": "3",
@@ -274,12 +178,6 @@
 			"name": "createdDateTime",
 			"showInListView": "true",
 			"label": {
-				"eng": "Created Time",
-				"ara": "الوقت الذي تم إنشاؤه",
-				"fra": "Temps créé",
-				"tam": "Created Time",
-				"hin": "बनाया गया समय",
-				"kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ",
 				"es": "Tiempo de creación"
 			},
 			"sortOrder": "3",
@@ -303,12 +201,6 @@
 		{
 			"filtername": "code",
 			"filterlabel": {
-				"eng": "Code",
-				"ara": "الشفرة",
-				"fra": "Code",
-				"tam": "குறியீடு",
-				"hin": "कोड",
-				"kan": "ಕೋಡ್",
 				"es": "Código"
 			},
 			"filterType": "equals",
@@ -322,12 +214,6 @@
 		{
 			"filtername": "name",
 			"filterlabel": {
-				"eng": "Name",
-				"ara": "اسم",
-				"fra": "prénom",
-				"tam": "பெயர்",
-				"hin": "नाम",
-				"kan": "ಹೆಸರು",
 				"es": "Nombre"
 			},
 			"filterType": "equals",
@@ -341,12 +227,6 @@
 		{
 			"filtername": "isActive",
 			"filterlabel": {
-				"eng": "Status",
-				"ara": "حاله",
-				"fra": "statut",
-				"tam": "நிலை",
-				"hin": "स्थिति",
-				"kan": "ಸ್ಥಿತಿ",
 				"es": "Estado"
 			},
 			"filterType": "equals",

@@ -3,12 +3,6 @@
   "actionButtons": [
     {
       "buttonName": {
-        "eng": "Upload Data",
-        "ara": "إضافة مركز",
-        "fra": "Ajouter le centre",
-        "hin": "डेटा अपलोड करें  ",
-        "kan": "ಡೇಟಾವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ   ",
-        "tam": "தரவைப் பதிவேற்றுக",
         "es": "Cargar datos"
       },
       "imagePath": "assets/images/add-icon.png",
@@ -23,10 +17,7 @@
     {
       "name": "transcationId",
       "showInListView": "true",
-      "label": { "eng": "Transcation ID", "ara": "مركز ", "fra": "Centre" ,
-        "hin": "लेन-देन आईडी  ",
-        "kan": "ವಹಿವಾಟು ID   ",
-        "tam": "பரிவர்த்தனை ஐடி  ",
+      "label": {
         "es": "ID de transacción"
       },
       "sortOrder": "3",
@@ -37,10 +28,7 @@
     {
       "name": "entityName",
       "showInListView": "true",
-      "label": {"eng": "Table Name", "ara": "نوع المركز", "fra": "Type de centre",
-        "hin": "तालिका नाम   ",
-        "kan": "ಟೇಬಲ್ ಹೆಸರು ",
-        "tam": " அட்டவணை பெயர்",
+      "label": {
         "es": "Nombre de la tabla"
       },
       "sortOrder": "",
@@ -51,10 +39,7 @@
     {
       "name": "operation",
       "showInListView": "true",
-      "label": { "eng": "Operation", "ara": "حاله", "fra": "statut" ,
-        "hin": "कार्यवाही    ",
-        "kan": "ಕಾರ್ಯಾಚರಣೆ  ",
-        "tam": " செயல்பாடு  ",
+      "label": {
         "es": "Operación"
       },
       "sortOrder": "",
@@ -65,9 +50,7 @@
     {
       "name": "count",
       "showInListView": "",
-      "label": {"eng": "Count","ara": "المستخدمين","fra": "Utilisateur","hin": "गिनती   ",
-        "kan": "ಎಣಿಕೆ  ",
-        "tam": "எண்ணிக்கை",
+      "label": {
         "es": "Cantidad"
       },
       "sortOrder": "",
@@ -78,10 +61,7 @@
     {
       "name": "status",
       "showInListView": "",
-      "label": {"eng": "Status", "ara": "الأجهزة", "fra": "Dispositifs",
-        "hin": "स्थिति   ",
-        "kan": "ಸ್ಥಿತಿ   ",
-        "tam": "நிலை",
+      "label": {
         "es": "Estado"
       },
       "sortOrder": "",
@@ -92,10 +72,7 @@
     {
       "name": "uploadedBy",
       "showInListView": "",
-      "label": {"eng": "Uploaded By", "ara": "آلات", "fra": "Machines",
-        "hin": "द्वारा डाली गई  ",
-        "kan": "ಇವರಿಂದ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ   ",
-        "tam": "பதிவேற்றியது  ",
+      "label": {
         "es": "Cargado por"
       },
       "sortOrder": "",
@@ -106,10 +83,7 @@
     {
       "name": "timeStamp",
       "showInListView": "",
-      "label": {"eng": "Date Time", "ara": "هاتف مُتَكَون", "fra": "Téléphone Contact",
-        "hin": "समय टिकट    ",
-        "kan": "ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್  ",
-        "tam": " நேர முத்திரை  ",
+      "label": {
         "es": "Fecha y hora"
       },
       "sortOrder": "",
