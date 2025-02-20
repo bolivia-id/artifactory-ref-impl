@@ -3,7 +3,7 @@
   "actionButtons": [    
     {
       "buttonName": {
-        "es": "Remapear"
+        "spa": "Remapear"
       },
       "actionURL": "",
       "redirectURL": "/admin/resources/zoneuser/single-view/$id",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Eliminar"
+        "spa": "Eliminar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -43,7 +43,7 @@
     },
     {
       "buttonName": {
-        "es": "Mapear Zona"
+        "spa": "Mapear Zona"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -54,7 +54,7 @@
     },
     {
       "buttonName": {
-        "es": "Filtrar"
+        "spa": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -69,7 +69,7 @@
       "name": "userName",
       "showInListView": "true",
       "label": { 
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -81,7 +81,7 @@
       "name": "zoneName",
       "showInListView": "true",
       "label": {
-        "es": "Nombre de Zona"
+        "spa": "Nombre de Zona"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -93,7 +93,7 @@
       "name": "createdBy",
       "showInListView": "",
       "label": {
-        "es": "Creado Por"
+        "spa": "Creado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -104,7 +104,7 @@
       "name": "createdDateTime",
       "showInListView": "",
       "label": {
-        "es": "Tiempo de Creación"
+        "spa": "Tiempo de Creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -115,7 +115,7 @@
       "name": "isActive",
       "showInListView": "true",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -132,7 +132,7 @@
     {
       "filtername": "userName",
       "filterlabel": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "filterType": "equals",
       "fieldType": "input",
@@ -146,7 +146,7 @@
     {
       "filtername": "zoneName",
       "filterlabel": {
-        "es": "Nombre de Zona"
+        "spa": "Nombre de Zona"
       },
       "filterType": "equals",
       "fieldType": "input",

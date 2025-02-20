@@ -5,7 +5,7 @@
     {
       "name": "certSignRequest",
       "showInListView": "true",
-      "label": { "es": "Solicitud de firma" },
+      "label": { "spa": "Solicitud de firma" },
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -14,7 +14,7 @@
     {
       "name": "certificate",
       "showInListView": "true",
-      "label": {"es": "Certificado" },
+      "label": {"spa": "Certificado" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -23,7 +23,7 @@
     {
       "name": "expiryAt",
       "showInListView": "true",
-      "label": {"es": "Caducidad en"},
+      "label": {"spa": "Caducidad en"},
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -32,7 +32,7 @@
     {
       "name": "issuedAt",
       "showInListView": "true",
-      "label": {"es": "Emitido en" },
+      "label": {"spa": "Emitido en" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -41,7 +41,7 @@
     {
       "name": "timeStamp",
       "showInListView": "true",
-      "label": {"es": "Fecha y hora" },
+      "label": {"spa": "Fecha y hora" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",

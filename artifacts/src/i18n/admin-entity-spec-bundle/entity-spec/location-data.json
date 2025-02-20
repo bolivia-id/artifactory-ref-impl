@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/location/single-view/$id",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -43,7 +43,7 @@
       "validations": ""
     },
     {
-      "buttonName": { "es": "Filtrar" },
+      "buttonName": { "spa": "Filtrar" },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -53,19 +53,19 @@
     },
     {
       "buttonName": {
-        "es": "Ubicación no disponible en inglés"
+        "spa": "Ubicación no disponible en inglés"
       },
       "imagePath": "",
       "actionListType": "action",
       "actionURL": {
         "case": "missingData",
         "title": {
-          "es": "Ubicación no disponible en inglés"
+          "spa": "Ubicación no disponible en inglés"
         },
         "columnNames": [{
-          "es": "Código"
+          "spa": "Código"
         },{
-          "es": "Nombre"
+          "spa": "Nombre"
         }],
         "fieldName": "name"
       },
@@ -80,7 +80,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Código Postal"
+        "spa": "Código Postal"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -95,7 +95,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Zona"
+        "spa": "Zona"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -111,7 +111,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Ciudad"
+        "spa": "Ciudad"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -125,7 +125,7 @@
       "name": "province",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": { "es": "Provincia"},
+      "label": { "spa": "Provincia"},
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -138,7 +138,7 @@
       "name": "region",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": { "es": "Región"},
+      "label": { "spa": "Región"},
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -152,7 +152,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Creado Por"
+        "spa": "Creado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -164,7 +164,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Actualizado Por"
+        "spa": "Actualizado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -176,7 +176,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo de Actualización"
+        "spa": "Tiempo de Actualización"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -188,7 +188,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo de Creación"
+        "spa": "Tiempo de Creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -199,7 +199,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": { "es": "Estado"},
+      "label": { "spa": "Estado"},
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -216,7 +216,7 @@
   "filterColumns": [
     {
       "filtername": "isActive",
-      "filterlabel": { "es": "Estado" },
+      "filterlabel": { "spa": "Estado" },
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "false",
@@ -228,7 +228,7 @@
     },
     {
       "filtername": "region",
-      "filterlabel": { "es": "Región" },
+      "filterlabel": { "spa": "Región" },
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "true",
@@ -240,7 +240,7 @@
     },
     {
       "filtername": "province",
-      "filterlabel": { "es": "Provincia" },
+      "filterlabel": { "spa": "Provincia" },
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "true",
@@ -252,7 +252,7 @@
     },
     {
       "filtername": "city",
-      "filterlabel":{"es": "Ciudad" },
+      "filterlabel":{"spa": "Ciudad" },
       "uiField": "string",
       "filterType": "contains",
       "fieldType": "input",
@@ -265,7 +265,7 @@
     },
     {
       "filtername": "Zone",
-      "filterlabel": { "es": "Zona" },
+      "filterlabel": { "spa": "Zona" },
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "true",
@@ -277,7 +277,7 @@
     },
     {
       "filtername": "postalCode",
-      "filterlabel": { "es": "Código Postal" },
+      "filterlabel": { "spa": "Código Postal" },
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "true",

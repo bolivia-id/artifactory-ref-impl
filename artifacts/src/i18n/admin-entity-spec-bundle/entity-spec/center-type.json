@@ -6,7 +6,7 @@
 	"actionButtons": [
 		{
 			"buttonName": {
-				"es": "Activar"
+				"spa": "Activar"
 			},
 			"actionURL": "",
 			"redirectURL": "",
@@ -16,7 +16,7 @@
 		},
 		{
 			"buttonName": {
-				"es": "Desactivar"
+				"spa": "Desactivar"
 			},
 			"actionURL": "",
 			"redirectURL": "",
@@ -26,7 +26,7 @@
 		},
 		{
 			"buttonName": {
-				"es": "Editar"
+				"spa": "Editar"
 			},
 			"actionURL": "",
 			"redirectURL": "/admin/masterdata/center-type/single-view/$id",
@@ -36,7 +36,7 @@
 		},
 		{
 			"buttonName": {
-				"es": "Crear"
+				"spa": "Crear"
 			},
 			"imagePath": "assets/images/add-icon.png",
 			"actionListType": "redirect",
@@ -47,7 +47,7 @@
 		},
 		{
 			"buttonName": {
-				"es": "Filtrar"
+				"spa": "Filtrar"
 			},
 			"imagePath": "assets/images/filter.png",
 			"actionListType": "action",
@@ -60,21 +60,21 @@
 		},
 		{
 			"buttonName": {
-				"es": "Tipo de centro no disponible en inglés"
+				"spa": "Tipo de centro no disponible en inglés"
 			},
 			"imagePath": "",
 			"actionListType": "action",
 			"actionURL": {
 				"case": "missingData",
 				"title": {
-					"es": "Tipo de centro no disponible en inglés"
+					"spa": "Tipo de centro no disponible en inglés"
 				},
 				"columnNames": [
 					{
-						"es": "Código"
+						"spa": "Código"
 					},
 					{
-						"es": "Nombre"
+						"spa": "Nombre"
 					}
 				],
 				"fieldName": "name"
@@ -90,7 +90,7 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"es": "Código"
+				"spa": "Código"
 			},
 			"sortOrder": "",
 			"showAsLink": "",
@@ -104,7 +104,7 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"es": "Nombre"
+				"spa": "Nombre"
 			},
 			"sortOrder": "3",
 			"showAsLink": "",
@@ -118,7 +118,7 @@
 			"showInListView": "true",
 			"showInSingleView": "true",
 			"label": {
-				"es": "Descripción"
+				"spa": "Descripción"
 			},
 			"sortOrder": "",
 			"showAsLink": "",
@@ -131,7 +131,7 @@
 			"name": "updatedBy",
 			"showInListView": "false",
 			"label": {
-				"es": "Actualizado por"
+				"spa": "Actualizado por"
 			},
 			"sortOrder": "",
 			"showAsLink": "false",
@@ -144,7 +144,7 @@
 			"name": "updatedDateTime",
 			"showInListView": "false",
 			"label": {
-				"es": "Tiempo de actualización"
+				"spa": "Tiempo de actualización"
 			},
 			"sortOrder": "",
 			"showAsLink": "",
@@ -155,7 +155,7 @@
 			"name": "createdBy",
 			"showInListView": "false",
 			"label": {
-				"es": "Creado por"
+				"spa": "Creado por"
 			},
 			"sortOrder": "3",
 			"showAsLink": "",
@@ -167,7 +167,7 @@
 			"showInListView": "true",
 			"showInSingleView": "false",
 			"label": {
-				"es": "Estado"
+				"spa": "Estado"
 			},
 			"sortOrder": "3",
 			"showAsLink": "",
@@ -178,7 +178,7 @@
 			"name": "createdDateTime",
 			"showInListView": "true",
 			"label": {
-				"es": "Tiempo de creación"
+				"spa": "Tiempo de creación"
 			},
 			"sortOrder": "3",
 			"showAsLink": "",
@@ -201,7 +201,7 @@
 		{
 			"filtername": "code",
 			"filterlabel": {
-				"es": "Código"
+				"spa": "Código"
 			},
 			"filterType": "equals",
 			"autocomplete": "false",
@@ -214,7 +214,7 @@
 		{
 			"filtername": "name",
 			"filterlabel": {
-				"es": "Nombre"
+				"spa": "Nombre"
 			},
 			"filterType": "equals",
 			"autocomplete": "false",
@@ -227,7 +227,7 @@
 		{
 			"filtername": "isActive",
 			"filterlabel": {
-				"es": "Estado"
+				"spa": "Estado"
 			},
 			"filterType": "equals",
 			"autocomplete": "false",

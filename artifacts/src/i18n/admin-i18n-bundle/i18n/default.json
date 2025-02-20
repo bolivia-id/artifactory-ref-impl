@@ -4,70 +4,76 @@
       "name": "Spanish",
       "nativeName": "Española",
       "locale": "es_ES"
+    },
+    "spa": {
+      "name": "Spanish",
+      "nativeName": "Española",
+      "locale": "es_ES"
     }
   },
   "keyboardMapping" :{
-     "es": "es"
+    "es": "es",
+    "spa": "es"
   },
   "masterdataMapping" :{
     "blocklisted-words": {
       "name": {
-        "es": "Palabras bloqueadas"
+        "spa": "Palabras bloqueadas"
       }
     },
     "holiday": {
       "name": {
-        "es": "Día festivo"
+        "spa": "Día festivo"
       }
     },
     "document-type": {
       "name": {
-        "es": "Tipo de Documento"
+        "spa": "Tipo de Documento"
       }
     },
     "templates": {
       "name": {
-        "es": "Plantillas"
+        "spa": "Plantillas"
       }
     },
     "machine-type": {
       "name": {
-        "es": "Tipos de máquinas"
+        "spa": "Tipos de máquinas"
       }
     },
     "device-types": {
       "name": {
-        "es": "Tipos de dispositivos"
+        "spa": "Tipos de dispositivos"
       }
     },
     "document-categories": {
       "name": {
-        "es": "Categorías de documentos"
+        "spa": "Categorías de documentos"
       }
     },
     "machine-specs": {
       "name": {
-        "es": "Especificación de la máquina"
+        "spa": "Especificación de la máquina"
       }
     },
     "device-specs": {
       "name": {
-        "es": "Especificación del dispositivo"
+        "spa": "Especificación del dispositivo"
       }
     },
     "center-type": {
       "name": {
-        "es": "Tipo de centro"
+        "spa": "Tipo de centro"
       }
     },
     "dynamicfields": {
       "name": {
-        "es": "Campo Dinámico"
+        "spa": "Campo Dinámico"
       }
     },
     "documentCategoryMapping": {
       "name": {
-        "es": "Categoría de documento: asignación de tipos"
+        "spa": "Categoría de documento: asignación de tipos"
       }
     }
   }

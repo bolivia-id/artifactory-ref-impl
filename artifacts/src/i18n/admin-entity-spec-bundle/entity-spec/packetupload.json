@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Subir paquete"
+        "spa": "Subir paquete"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -18,7 +18,7 @@
       "name": "transcationId",
       "showInListView": "true",
       "label": { 
-        "es": "ID de transacción"
+        "spa": "ID de transacción"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -29,7 +29,7 @@
       "name": "status",
       "showInListView": "",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -40,7 +40,7 @@
       "name": "count",
       "showInListView": "",
       "label": {
-        "es": "Cantidad"
+        "spa": "Cantidad"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -51,7 +51,7 @@
       "name": "uploadedBy",
       "showInListView": "",
       "label": {
-        "es": "Subido por"
+        "spa": "Subido por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -62,7 +62,7 @@
       "name": "timeStamp",
       "showInListView": "",
       "label": {
-        "es": "Fecha y hora"
+        "spa": "Fecha y hora"
       },
       "sortOrder": "",
       "showAsLink": "",

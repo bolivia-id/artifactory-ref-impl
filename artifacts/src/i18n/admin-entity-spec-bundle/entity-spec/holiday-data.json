@@ -4,7 +4,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -14,7 +14,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -24,7 +24,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/holiday/single-view/$id",
@@ -34,7 +34,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -44,7 +44,7 @@
       "validations": ""
     },
     {
-      "buttonName": {"es": "Filtrar" },
+      "buttonName": {"spa": "Filtrar" },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -54,21 +54,21 @@
     },
     {
       "buttonName": {
-        "es": "Fiesta no disponible en inglés"
+        "spa": "Fiesta no disponible en inglés"
       },
       "imagePath": "",
       "actionListType": "action",
       "actionURL": {
         "case": "missingData",
         "title": {
-          "es": "Fiesta no disponible en inglés"
+          "spa": "Fiesta no disponible en inglés"
         },
         "columnNames": [
           {
-            "es": "ID de vacaciones"
+            "spa": "ID de vacaciones"
           },
           {
-            "es": "Nombre de vacaciones"
+            "spa": "Nombre de vacaciones"
           }],
         "fieldName": "holidayName"
       },
@@ -83,7 +83,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Nombre de la fiesta"
+        "spa": "Nombre de la fiesta"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -96,7 +96,7 @@
       "name": "holidayDesc",
       "showInListView": "false",
       "showInSingleView": "true",
-      "label": {"es": "Descripción" },
+      "label": {"spa": "Descripción" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -108,7 +108,7 @@
       "name": "holidayDate",
       "showInListView": "true",
       "showInSingleView": "true",
-      "label": {"es": "Fecha de la fiesta" },
+      "label": {"spa": "Fecha de la fiesta" },
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -120,7 +120,7 @@
       "name": "locationCode",
       "showInSingleView": "true",
       "showInListView": "false",
-      "label": {"es": "Ubicación" },
+      "label": {"spa": "Ubicación" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -133,7 +133,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Actualizado por"
+        "spa": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -145,7 +145,7 @@
       "showInSingleView": "true",
       "showInListView": "false",
       "label": {
-        "es": "Hora de creación"
+        "spa": "Hora de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -156,7 +156,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": {"es": "Estado" },
+      "label": {"spa": "Estado" },
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -173,7 +173,7 @@
   "filterColumns": [
     {
       "filtername": "holidayDateFrom",
-      "filterlabel": { "es": "Fecha de la fiesta desde" },
+      "filterlabel": { "spa": "Fecha de la fiesta desde" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -184,7 +184,7 @@
     },
     {
       "filtername": "holidayDateTo",
-      "filterlabel": { "es": "Fecha de la fiesta hasta" },
+      "filterlabel": { "spa": "Fecha de la fiesta hasta" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -196,7 +196,7 @@
     {
       "filtername": "holidayName",
       "filterlabel": {
-        "es": "Nombre de la fiesta"
+        "spa": "Nombre de la fiesta"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -208,7 +208,7 @@
     },
     {
       "filtername": "isActive",
-      "filterlabel": { "es": "Estado" },
+      "filterlabel": { "spa": "Estado" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",

@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Desmantelar"
+        "spa": "Desmantelar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/resources/machines/single-view/$id",
@@ -43,7 +43,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear máquina"
+        "spa": "Crear máquina"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -54,7 +54,7 @@
     },
     {
       "buttonName": {
-        "es": "Filtrar"
+        "spa": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -69,7 +69,7 @@
       "name": "name",
       "showInListView": "true",
       "label": {
-        "es": "Nombre de la máquina"
+        "spa": "Nombre de la máquina"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -80,7 +80,7 @@
       "name": "machineTypeName",
       "showInListView": "true",
       "label": {
-        "es": "Tipo de máquina"
+        "spa": "Tipo de máquina"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -91,7 +91,7 @@
       "name": "macAddress",
       "showInListView": "",
       "label": {
-        "es": "Dirección Mac"
+        "spa": "Dirección Mac"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -102,7 +102,7 @@
       "name": "serialNum",
       "showInListView": "",
       "label": {
-        "es": "Número de serie"
+        "spa": "Número de serie"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -113,7 +113,7 @@
       "name": "mapStatus",
       "showInListView": "",
       "label": {
-        "es": "Centro"
+        "spa": "Centro"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -124,7 +124,7 @@
       "name": "createdDateTime",
       "showInListView": "",
       "label": {
-        "es": "Hora de creación"
+        "spa": "Hora de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -135,7 +135,7 @@
       "name": "isActive",
       "showInListView": "true",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -152,7 +152,7 @@
     {
       "filtername": "name",
       "filterlabel": {
-        "es": "Nombre de la máquina"
+        "spa": "Nombre de la máquina"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -165,7 +165,7 @@
     {
       "filtername": "isActive",
       "filterlabel": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -178,7 +178,7 @@
     {
       "filtername": "macAddress",
       "filterlabel": {
-        "es": "Dirección MAC"
+        "spa": "Dirección MAC"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -191,7 +191,7 @@
     {
       "filtername": "serialNum",
       "filterlabel": {
-        "es": "Número de serie"
+        "spa": "Número de serie"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -204,7 +204,7 @@
     {
       "filtername": "machineTypeName",
       "filterlabel": {
-        "es": "Tipo de máquina"
+        "spa": "Tipo de máquina"
       },
       "filterType": "equals",
       "autocomplete": "false",

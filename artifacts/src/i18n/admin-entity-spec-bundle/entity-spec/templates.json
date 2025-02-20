@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/templates/single-view/$id",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -43,7 +43,7 @@
       "validations": ""
     },
     {
-      "buttonName": {"es": "Filtrar" },
+      "buttonName": {"spa": "Filtrar" },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -53,19 +53,19 @@
     },
     {
       "buttonName": {
-        "es": "Plantilla no disponible en inglés"
+        "spa": "Plantilla no disponible en inglés"
       },
       "imagePath": "",
       "actionListType": "action",
       "actionURL": {
         "case": "missingData",
         "title": {
-          "es": "Plantilla no disponible en inglés"
+          "spa": "Plantilla no disponible en inglés"
         },
         "columnNames": [{
-          "es": "ID de plantilla"
+          "spa": "ID de plantilla"
         },{
-          "es": "Nombre"
+          "spa": "Nombre"
         }],
         "fieldName": "name"
       },
@@ -80,7 +80,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -94,7 +94,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Descripción"
+        "spa": "Descripción"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -108,7 +108,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Modelo"
+        "spa": "Modelo"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -122,7 +122,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Escenario"
+        "spa": "Escenario"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -136,7 +136,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Formato de plantilla"
+        "spa": "Formato de plantilla"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -150,7 +150,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Plantilla"
+        "spa": "Plantilla"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -164,7 +164,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Nombre del módulo"
+        "spa": "Nombre del módulo"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -178,7 +178,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Nombre del módulo"
+        "spa": "Nombre del módulo"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -192,7 +192,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Creado por"
+        "spa": "Creado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -204,7 +204,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Actualizado por"
+        "spa": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -216,7 +216,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo de actualización"
+        "spa": "Tiempo de actualización"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -228,7 +228,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "ID de plantilla"
+        "spa": "ID de plantilla"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -240,7 +240,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo de creación"
+        "spa": "Tiempo de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -252,7 +252,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -271,7 +271,7 @@
     {
       "filtername": "name",
       "filterlabel": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -284,7 +284,7 @@
     {
       "filtername": "moduleName",
       "filterlabel": {
-        "es": "Nombre del módulo"
+        "spa": "Nombre del módulo"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -297,7 +297,7 @@
     {
       "filtername": "isActive",
       "filterlabel": {
-        "es": "Estado"
+        "spa": "Estado"
          },
       "filterType": "equals",
       "autocomplete": "false",

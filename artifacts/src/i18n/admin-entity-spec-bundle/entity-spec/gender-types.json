@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/gender-type/single-view/$id",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -43,7 +43,7 @@
       "validations": ""
     },
     {
-      "buttonName": { "es": "Filtrar"},
+      "buttonName": { "spa": "Filtrar"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -57,7 +57,7 @@
       "name": "code",
       "showInListView": "true",
       "showInSingleView": "true",
-      "label": {"es": "Código"},
+      "label": {"spa": "Código"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -69,7 +69,7 @@
       "name": "genderName",
       "showInListView": "true",
       "showInSingleView": "true",
-      "label": {"es": "Nombre de género"},
+      "label": {"spa": "Nombre de género"},
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -81,7 +81,7 @@
       "name": "createdBy",
       "showInListView": "false",
       "label": {
-        "es": "Creado por"
+        "spa": "Creado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -92,7 +92,7 @@
       "name": "updatedBy",
       "showInListView": "false",
       "label": {
-        "es": "Actualizado por"
+        "spa": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -103,7 +103,7 @@
       "name": "updatedDateTime",
       "showInListView": "false",
       "label": {
-        "es": "Tiempo de actualización"
+        "spa": "Tiempo de actualización"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -114,7 +114,7 @@
       "name": "createdDateTime",
       "showInListView": "true",
       "label": {
-        "es": "Tiempo de creación"
+        "spa": "Tiempo de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -125,7 +125,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": {"es": "Estado"},
+      "label": {"spa": "Estado"},
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -142,7 +142,7 @@
   "filterColumns":  [
     {
       "filtername": "genderName",
-      "filterlabel": {"es": "Nombre"},
+      "filterlabel": {"spa": "Nombre"},
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -153,7 +153,7 @@
     },
     {
       "filtername": "isActive",
-      "filterlabel": {"es": "Estado" },
+      "filterlabel": {"spa": "Estado" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",

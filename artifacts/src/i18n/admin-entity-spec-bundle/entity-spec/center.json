@@ -2,7 +2,7 @@
   "auditEventIds": ["ADM-027", "ADM-049"],
   "actionButtons": [{
     "buttonName": {
-      "es": "Activar"
+      "spa": "Activar"
     },
     "actionURL": "",
     "redirectURL": "",
@@ -13,7 +13,7 @@
     {
       "buttonName": {
        
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/resources/centers/single-view/$id",
@@ -43,7 +43,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear Centro"
+        "spa": "Crear Centro"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -54,7 +54,7 @@
     },
     {
       "buttonName": {
-        "es": "Filtrar"
+        "spa": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -67,19 +67,19 @@
     },
     {
       "buttonName": {
-        "es": "Centros no disponibles en inglés"
+        "spa": "Centros no disponibles en inglés"
       },
       "imagePath": "",
       "actionListType": "action",
       "actionURL": {
         "case": "missingData",
         "title": {
-          "es": "Centros no disponibles en inglés"
+          "spa": "Centros no disponibles en inglés"
         },
         "columnNames": [{
-          "es": "ID del Centro"
+          "spa": "ID del Centro"
         }, {
-          "es": "Nombre del Centro"
+          "spa": "Nombre del Centro"
         }],
         "fieldName": "name"
       },
@@ -92,7 +92,7 @@
     "name": "name",
     "showInListView": "true",
     "label": {
-    "es": "Centro"
+    "spa": "Centro"
     },
     "sortOrder": "3",
     "showAsLink": "",
@@ -103,7 +103,7 @@
       "name": "centerTypeName",
       "showInListView": "true",
       "label": {
-        "es": "Tipo de Centro"
+        "spa": "Tipo de Centro"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -115,7 +115,7 @@
       "name": "users",
       "showInListView": "",
       "label": {
-        "es": "Usuarios"
+        "spa": "Usuarios"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -126,7 +126,7 @@
       "name": "devices",
       "showInListView": "",
       "label": {
-        "es": "Dispositivos"
+        "spa": "Dispositivos"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -137,7 +137,7 @@
       "name": "machines",
       "showInListView": "",
       "label": {
-        "es": "Máquinas"
+        "spa": "Máquinas"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -148,7 +148,7 @@
       "name": "contactPhone",
       "showInListView": "",
       "label": {
-        "es": "Teléfono de Contacto"
+        "spa": "Teléfono de Contacto"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -159,7 +159,7 @@
       "name": "contactPerson",
       "showInListView": "",
       "label": {
-        "es": "Persona de Contacto"
+        "spa": "Persona de Contacto"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -170,7 +170,7 @@
       "name": "createdDateTime",
       "showInListView": "",
       "label": {
-        "es": "Hora de Creación"
+        "spa": "Hora de Creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -181,7 +181,7 @@
       "name": "isActive",
       "showInListView": "true",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -198,7 +198,7 @@
     {
     "filtername": "name",
     "filterlabel": {
-     "es": "Centro"
+     "spa": "Centro"
     },
     "filterType": "equals",
     "fieldType": "input",
@@ -212,7 +212,7 @@
     {
       "filtername": "centerTypeName",
       "filterlabel": {
-        "es": "Tipo de Centro"
+        "spa": "Tipo de Centro"
       },
       "filterType": "contains",
       "fieldType": "mat-select",
@@ -226,7 +226,7 @@
     {
       "filtername": "locationCode",
       "filterlabel": {
-        "es": "Código de Ubicación"
+        "spa": "Código de Ubicación"
       },
       "filterType": "contains",
       "fieldType": "mat-select",
@@ -240,7 +240,7 @@
     {
       "filtername": "isActive",
       "filterlabel": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "filterType": "contains",
       "fieldType": "input",

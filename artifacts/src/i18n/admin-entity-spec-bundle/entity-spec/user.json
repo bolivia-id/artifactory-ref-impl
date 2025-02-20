@@ -3,7 +3,7 @@
   "actionButtons": [    
     {
       "buttonName": {
-        "es": "Remapear"
+        "spa": "Remapear"
       },
       "actionURL": "",
       "redirectURL": "/admin/resources/users/single-view/$id",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Mapear al centro"
+        "spa": "Mapear al centro"
       },
       "actionURL": "",
       "redirectURL": "/admin/resources/users/single-view/$id",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Eliminar"
+        "spa": "Eliminar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -43,7 +43,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -53,7 +53,7 @@
     },
     {
       "buttonName": {
-        "es": "Filtrar"
+        "spa": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -68,7 +68,7 @@
       "name": "userName",
       "showInListView": "true",
       "label": { 
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -80,7 +80,7 @@
       "name": "zoneName",
       "showInListView": "true",
       "label": {
-        "es": "Nombre de la zona"
+        "spa": "Nombre de la zona"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -92,7 +92,7 @@
       "name": "regCenterName",
       "showInListView": "",
       "label": {
-        "es": "Centro"
+        "spa": "Centro"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -104,7 +104,7 @@
       "name": "createdBy",
       "showInListView": "",
       "label": {
-        "es": "Creado por"
+        "spa": "Creado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -115,7 +115,7 @@
       "name": "createdDateTime",
       "showInListView": "",
       "label": {
-        "es": "Tiempo de creación"
+        "spa": "Tiempo de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -126,7 +126,7 @@
       "name": "isActive",
       "showInListView": "true",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -143,7 +143,7 @@
     {
       "filtername": "userName",
       "filterlabel": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "filterType": "equals",
       "fieldType": "input",
@@ -157,7 +157,7 @@
     {
       "filtername": "zoneName",
       "filterlabel": {
-        "es": "Nombre de la zona"
+        "spa": "Nombre de la zona"
       },
       "filterType": "equals",
       "fieldType": "input",
@@ -171,7 +171,7 @@
     {
       "filtername": "regCenterName",
       "filterlabel": {
-        "es": "Centro"
+        "spa": "Centro"
       },
       "filterType": "equals",
       "fieldType": "input",

@@ -2,7 +2,7 @@
   "auditEventIds": ["ADM-030", "ADM-052"],
   "actionButtons": [
     {
-      "buttonName": { "es":"Filtrar"},
+      "buttonName": { "spa":"Filtrar"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -15,7 +15,7 @@
     {
       "name": "registrationId",
       "showInListView": "True",
-      "label": { "es":"Identificación de registro"},
+      "label": { "spa":"Identificación de registro"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -25,7 +25,7 @@
     {
       "name": "registartionDate",
       "showInListView": "True",
-      "label": { "es":"Fecha de registro"},
+      "label": { "spa":"Fecha de registro"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -36,7 +36,7 @@
       "name": "firstName",
       "showInListView": "true",
       "showInSingleView": "true",
-     "label": {"es":"Nombre de pila"},
+     "label": {"spa":"Nombre de pila"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -49,7 +49,7 @@
   "filterColumns": [
     {
       "filtername": "registrationDateFrom",
-      "filterlabel": {"es": "Fecha de Registro Desde" },
+      "filterlabel": {"spa": "Fecha de Registro Desde" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -61,7 +61,7 @@
     },
     {
       "filtername": "registrationDateTo",
-      "filterlabel": {"es": "Fecha de Registro Hasta" },
+      "filterlabel": {"spa": "Fecha de Registro Hasta" },
       "filterType": "between",
       "autocomplete": "false",
       "dropdown": "false",
@@ -74,7 +74,7 @@
     {
       "filtername": "firstName",
     "filterlabel": {
-    "es":"Nombre de pila"
+    "spa":"Nombre de pila"
    },
       "filterType": "equals",
       "autocomplete": "false",
@@ -88,7 +88,7 @@
     {
       "filtername": "firstLastName",
         "filterlabel": {
-        "es":"Primer Apellido"
+        "spa":"Primer Apellido"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -102,7 +102,7 @@
      {
       "filtername": "secondLastName",
         "filterlabel": {
-        "es":"Segundo apellido"
+        "spa":"Segundo apellido"
         
       },
       "filterType": "equals",
@@ -117,7 +117,7 @@
     {
       "filtername": "email",
       "filterlabel": {
-        "es": "Correo Electrónico"
+        "spa": "Correo Electrónico"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -131,7 +131,7 @@
     {
       "filtername": "phone",
       "filterlabel": {
-        "es": "Teléfono"
+        "spa": "Teléfono"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -145,7 +145,7 @@
     {
       "filtername": "locationCode",
       "filterlabel": {
-        "es": "Código de Localización"      
+        "spa": "Código de Localización"      
             },
       "filterType": "contains",
       "fieldType": "mat-select",
@@ -160,7 +160,7 @@
     {
       "filtername": "centerId",
       "filterlabel": {
-        "es": "Centro"
+        "spa": "Centro"
       },
       "filterType": "equals",
       "autocomplete": "false",

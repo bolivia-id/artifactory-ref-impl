@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/machine-type/single-view/$id",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -44,7 +44,7 @@
     },
     {
       "buttonName": {
-        "es": "Filtrar"
+        "spa": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -60,7 +60,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Código"
+        "spa": "Código"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -75,7 +75,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -90,7 +90,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": { 
-        "es": "Descripción"
+        "spa": "Descripción"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -104,7 +104,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Creado por"
+        "spa": "Creado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -116,7 +116,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Actualizado por"
+        "spa": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -128,7 +128,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Hora de actualización"
+        "spa": "Hora de actualización"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -140,7 +140,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Hora de creación"
+        "spa": "Hora de creación"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -152,7 +152,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": { 
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -171,7 +171,7 @@
     {
       "filtername": "name",
       "filterlabel": {
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -184,7 +184,7 @@
     {
       "filtername": "isActive",
       "filterlabel": { 
-        "es": "Estado"
+        "spa": "Estado"
       },
       "filterType": "equals",
       "autocomplete": "false",

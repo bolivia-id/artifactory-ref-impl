@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Activar"
+        "spa": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Desactivar"
+        "spa": "Desactivar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Editar"
+        "spa": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/machine-specs/single-view/$id",
@@ -33,7 +33,7 @@
     },
     {
       "buttonName": {
-        "es": "Crear"
+        "spa": "Crear"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -43,7 +43,7 @@
       "validations": ""
     },
     {
-      "buttonName": { "es": "Filtrar" },
+      "buttonName": { "spa": "Filtrar" },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -65,7 +65,7 @@
         "hin": "नाम",
         "kan": "ಹೆಸರು",
         "tam": "பெயர்",
-        "es": "Nombre"
+        "spa": "Nombre"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -79,7 +79,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Marca"
+        "spa": "Marca"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -93,7 +93,7 @@
       "showInListView": "true",
       "showInSingleView": "true",
       "label": {
-        "es": "Modelo"
+        "spa": "Modelo"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -107,7 +107,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Versión mínima del controlador"
+        "spa": "Versión mínima del controlador"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -121,7 +121,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Descripción"
+        "spa": "Descripción"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -135,7 +135,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Tipo de máquina"
+        "spa": "Tipo de máquina"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -149,7 +149,7 @@
       "showInListView": "false",
       "showInSingleView": "true",
       "label": {
-        "es": "Tipo de máquina"
+        "spa": "Tipo de máquina"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -163,7 +163,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "ID de especificación de la máquina"
+        "spa": "ID de especificación de la máquina"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -175,7 +175,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Creado por"
+        "spa": "Creado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -187,7 +187,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Actualizado por"
+        "spa": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -199,7 +199,7 @@
       "showInListView": "false",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo actualizado"
+        "spa": "Tiempo actualizado"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -211,7 +211,7 @@
       "showInListView": "true",
       "showInSingleView": "false",
       "label": {
-        "es": "Tiempo creado"
+        "spa": "Tiempo creado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -222,7 +222,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": {"es": "Estado" },
+      "label": {"spa": "Estado" },
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -239,7 +239,7 @@
   "filterColumns": [
     {
       "filtername": "name",
-      "filterlabel": { "es": "Nombre" },
+      "filterlabel": { "spa": "Nombre" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -250,7 +250,7 @@
     },
     {
       "filtername": "isActive",
-      "filterlabel": {"es": "Estado" },
+      "filterlabel": {"spa": "Estado" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",
@@ -261,7 +261,7 @@
     },
     {
       "filtername": "brand",
-      "filterlabel": { "es": "Marca" },
+      "filterlabel": { "spa": "Marca" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -272,7 +272,7 @@
     },
     {
       "filtername": "model",
-      "filterlabel": { "es": "Modelo" },
+      "filterlabel": { "spa": "Modelo" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -284,7 +284,7 @@
     {
       "filtername": "machineTypeName",
       "filterlabel": {
-        "es": "Tipo de máquina"
+        "spa": "Tipo de máquina"
       },
       "filterType": "equals",
       "autocomplete": "false",

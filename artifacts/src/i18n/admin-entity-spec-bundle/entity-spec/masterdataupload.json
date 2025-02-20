@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Cargar datos"
+        "spa": "Cargar datos"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -18,7 +18,7 @@
       "name": "transcationId",
       "showInListView": "true",
       "label": {
-        "es": "ID de transacción"
+        "spa": "ID de transacción"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -29,7 +29,7 @@
       "name": "entityName",
       "showInListView": "true",
       "label": {
-        "es": "Nombre de la tabla"
+        "spa": "Nombre de la tabla"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -40,7 +40,7 @@
       "name": "operation",
       "showInListView": "true",
       "label": {
-        "es": "Operación"
+        "spa": "Operación"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -51,7 +51,7 @@
       "name": "count",
       "showInListView": "",
       "label": {
-        "es": "Cantidad"
+        "spa": "Cantidad"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -62,7 +62,7 @@
       "name": "status",
       "showInListView": "",
       "label": {
-        "es": "Estado"
+        "spa": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -73,7 +73,7 @@
       "name": "uploadedBy",
       "showInListView": "",
       "label": {
-        "es": "Cargado por"
+        "spa": "Cargado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -84,7 +84,7 @@
       "name": "timeStamp",
       "showInListView": "",
       "label": {
-        "es": "Fecha y hora"
+        "spa": "Fecha y hora"
       },
       "sortOrder": "",
       "showAsLink": "",

@@ -3,28 +3,28 @@
     "common": [
       {
         "label": {
-          "es": "Tipos de centros"
+          "spa": "Tipos de centros"
         },
         "actionURL": "admin/masterdata/center-type/view",
         "auditEventId": "ADM-010"
       },
       {
         "label": {
-          "es": "Palabras en la lista negra"
+          "spa": "Palabras en la lista negra"
         },
         "actionURL": "admin/masterdata/blocklisted-words/view",
         "auditEventId": "ADM-011"
       },
       {
         "label": {
-          "es": "Lista de días festivos"
+          "spa": "Lista de días festivos"
         },
         "actionURL": "admin/masterdata/holiday/view",
         "auditEventId": "ADM-014"
       },
       {
         "label": {
-          "es": "Plantillas"
+          "spa": "Plantillas"
         },
         "actionURL": "admin/masterdata/templates/view",
         "auditEventId": "ADM-016"
@@ -33,14 +33,14 @@
     "deviceDefinition": [
       {
         "label": {
-          "es": "Especificaciones del dispositivo"
+          "spa": "Especificaciones del dispositivo"
         },
         "actionURL": "admin/masterdata/device-specs/view",
         "auditEventId": "ADM-018"
       },
       {
         "label": {
-          "es": "Tipos de dispositivos"
+          "spa": "Tipos de dispositivos"
         },
         "actionURL": "admin/masterdata/device-types/view",
         "auditEventId": "ADM-019"
@@ -49,14 +49,14 @@
     "machineDefinition": [
       {
         "label": {
-          "es": "Especificaciones de la máquina"
+          "spa": "Especificaciones de la máquina"
         },
         "actionURL": "admin/masterdata/machine-specs/view",
         "auditEventId": "ADM-020"
       },
       {
         "label": {
-          "es": "Tipos de máquinas"
+          "spa": "Tipos de máquinas"
         },
         "actionURL": "admin/masterdata/machine-type/view",
         "auditEventId": "ADM-021"
@@ -65,21 +65,21 @@
     "documentDefinition": [
       {
         "label": {
-          "es": "Tipos de documentos"
+          "spa": "Tipos de documentos"
         },
         "actionURL": "admin/masterdata/document-type/view",
         "auditEventId": "ADM-022"
       },
       {
         "label": {
-          "es": "Categorías de documentos"
+          "spa": "Categorías de documentos"
         },
         "actionURL": "admin/masterdata/document-categories/view",
         "auditEventId": "ADM-023"
       },
       {
         "label": {
-          "es": "Mapeo de Categoría de Documento - Tipo"
+          "spa": "Mapeo de Categoría de Documento - Tipo"
         },
         "actionURL": "admin/masterdata/documentCategoryMapping",
         "auditEventId": "ADM-024"

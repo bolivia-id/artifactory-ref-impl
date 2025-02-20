@@ -3,7 +3,7 @@
   "actionButtons": [
     {
       "buttonName": {
-        "es": "Reanudar procesamiento"
+        "spa": "Reanudar procesamiento"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -13,7 +13,7 @@
     },
     {
       "buttonName": {
-        "es": "Reanudar desde el principio"
+        "spa": "Reanudar desde el principio"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -23,7 +23,7 @@
     },
     {
       "buttonName": {
-        "es": "Rechazar"
+        "spa": "Rechazar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -32,7 +32,7 @@
       "callBackFunction": "stopprocessing"
     },
     {
-      "buttonName": { "es": "Filtro"},
+      "buttonName": { "spa": "Filtro"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -45,7 +45,7 @@
     {
       "name": "workflowId",
       "showInListView": "True",
-      "label": {"es": "RID"},
+      "label": {"spa": "RID"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -54,7 +54,7 @@
     {
       "name": "workflowType",
       "showInListView": "True",
-      "label": { "es": "Tipo de paquete"},
+      "label": { "spa": "Tipo de paquete"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -63,7 +63,7 @@
     {
       "name": "statusComment",
       "showInListView": "True",
-      "label": { "es": "Descripción de la regla"},
+      "label": { "spa": "Descripción de la regla"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -72,7 +72,7 @@
     {
       "name": "currentStageName",
       "showInListView": "True",
-      "label": { "es": "Etapa actual"},
+      "label": { "spa": "Etapa actual"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -88,7 +88,7 @@
     {
       "filtername": "workflowId",
       "filterlabel": {
-        "es": "RID"},
+        "spa": "RID"},
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "false",
@@ -100,7 +100,7 @@
     },
     {
       "filtername": "workflowType",
-      "filterlabel": {"es": "Tipo de paquete"},
+      "filterlabel": {"spa": "Tipo de paquete"},
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "false",
