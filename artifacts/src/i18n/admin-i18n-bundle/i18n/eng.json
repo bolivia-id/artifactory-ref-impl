@@ -691,7 +691,7 @@
         "subtitlelocation":"Location",
         "searchbtn":"Search",
         "clearbtn":"Clear",
-        "name":"Full Name ",
+        "name":"FirstName",
         "applicationId":"Application Id",
         "enrolmentDate":"Enrolment Date",
         "dateOfBirth":"Date Of Birth"

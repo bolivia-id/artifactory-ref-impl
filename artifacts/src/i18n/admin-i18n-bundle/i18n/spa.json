@@ -728,7 +728,7 @@
         "subtitlelocation": "Ubicación",
         "searchbtn": "Buscar",
         "clearbtn": "Limpiar",
-        "name": "Nombre Completo",
+        "name": "PrimerNombre",
         "applicationId": "ID de Solicitud",
         "enrolmentDate": "Fecha de Inscripción",
         "dateOfBirth": "Fecha de Nacimiento"
