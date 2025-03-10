@@ -337,7 +337,7 @@
       "change_data_capture_langs": "Cambiar idiomas de captura de datos",
       "change_data_capture_langs_msg": "Todos los datos ingresados se descartarán y deberás reiniciar. Por favor, confirma.",
       "consent": {
-        "title": "Términos y condiciones",
+        "title": "Términos y Condiciones del Módulo de Preinscripción",
         "subtitle": "Tu acuerdo",
         "message": "Para otorgar consentimiento para el almacenamiento y uso de información personal como se indica",
         "checkCondition": "Haz clic para aceptar los términos y condiciones",

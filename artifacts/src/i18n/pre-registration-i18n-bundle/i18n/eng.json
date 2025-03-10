@@ -338,7 +338,7 @@
     "change_data_capture_langs": "Change data capture languages",
     "change_data_capture_langs_msg": "All data entered will be discarded and you will have to restart. Please Confirm.",
     "consent": {
-      "title": "Terms and Conditions",
+      "title": "Terms and Conditions of the Pre-Registration Module",
       "subtitle": "Your Agreement",
       "message": "To provide consent for storage and utilization of personal information as given",
       "checkCondition": "Click to accept the terms and conditions",
