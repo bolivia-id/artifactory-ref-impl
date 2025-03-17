@@ -48,7 +48,8 @@
     "hin": "hi",
     "tam": "ta",
     "kan": "kn",
-     "es": "es"
+     "es": "es",
+     "spa": "es"
   },
   "masterdataMapping" :{
     "blocklisted-words": {
