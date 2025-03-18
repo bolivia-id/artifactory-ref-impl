@@ -642,7 +642,7 @@
         "zoneuser": "Mapeo de zona de usuario"
     },
     "bulkUpload": {
-        "operation": "Operación",
+        "operation": "Operation",
         "operationCtrl": [
             { "label": "Insertar", "value": "Insert" },
             { "label": "Actualizar", "value": "Update" },
