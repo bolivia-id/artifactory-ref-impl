@@ -644,9 +644,9 @@
     "bulkUpload": {
         "operation": "Operación",
         "operationCtrl": [
-            { "label": "Insertar", "value": "Insertar" },
-            { "label": "Actualizar", "value": "Actualizar" },
-            { "label": "Eliminar", "value": "Eliminar" }
+            { "label": "Insertar", "value": "Insert" },
+            { "label": "Actualizar", "value": "Update" },
+            { "label": "Eliminar", "value": "Delete" }
         ],
         "tableName": "Seleccionar nombre de tabla",
         "chooseFile": "Elegir archivo",
