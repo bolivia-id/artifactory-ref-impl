@@ -39,6 +39,9 @@ ENV work_dir=/home/${container_user}
 # environment variable for basepath
 ENV base_path=/usr/share/nginx/html/artifactory
 
+# environment variable for tech5 jar path
+ENV tech5_zip_path=${base_path}/libs-release-local/sdk/tech5
+
 # environment variable for Biosdk client Zip path
 ENV biosdk_client_zip_path=${base_path}/libs-release-local/biosdk/mock/0.9
 
@@ -125,6 +128,8 @@ RUN mkdir -p ${biosdk_client_zip_path}/biosdk-client ${demosdk_zip_path}/demosdk
 # Copy all the respective jars to the location
 
 COPY /src/sdk/biosdk/install.sh ${biosdk_client_zip_path}/biosdk-client/
+
+COPY /src/sdk/tech5/* ${tech5_zip_path}/
 
 COPY /src/sdk/demosdk/install.sh ${demosdk_zip_path}/demosdk/
 
