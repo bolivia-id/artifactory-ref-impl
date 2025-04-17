@@ -381,7 +381,12 @@
       "action_send": "ENVIAR CORREO ELECTRÓNICO/SMS",
       "action_download": "DESCARGAR PDF",
       "action_print": "IMPRIMIR",
-      "label_reg_cntr_dtl": "Dirección del Centro"
+      "label_reg_cntr_dtl": "Dirección del Centro",
+      "label_gender": "Género",
+      "label_date_of_birth" : "Fecha de nacimiento",
+      "gender_mle":"Masculina",
+      "gender_fle":"Femenina",
+      "gender_oth":"Otras"
     },
     "preview": {
       "title_preview": "Detalles de registro",
