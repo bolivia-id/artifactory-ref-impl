@@ -19,6 +19,8 @@
 		"picture": "Foto",
 		"gender": "Género",
 		"firstName": "primerNombre",
+		"firstLastName":"Primer Apellido",
+		"secondLastName":"Segundo apellido",
 		"birthdate": "Fecha de Nacimiento",
 		"locale": "Localización",
 		"nickname": "Apodo",
