@@ -1,6 +1,9 @@
 {
-  "languages": {
+  "languages_2Letters": {
     "es": "Español"
   },
-  "rtlLanguages": []
+  "rtlLanguages": [],
+  "langCodeMapping": { 
+    "es": "es"
+  }
 }
